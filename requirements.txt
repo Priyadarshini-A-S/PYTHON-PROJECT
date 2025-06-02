@@ -1,0 +1,6 @@
+Django
+pymongo
+matplotlib
+pandas
+scikit-learn
+python-decouple
